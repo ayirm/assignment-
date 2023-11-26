@@ -7,8 +7,8 @@ guidelines in choosing variable names!*
 
 **Answers:**
 
-*str_variable = "hello world"
-*bool_variable = True
-*int_variable = 62
-*float_variable = 68,75
-*null_variable = None
+-str_variable = "hello world"
+-bool_variable = True
+-int_variable = 62
+-float_variable = 68,75
+-null_variable = None
